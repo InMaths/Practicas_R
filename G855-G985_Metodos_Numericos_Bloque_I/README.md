@@ -1,4 +1,4 @@
-# Prácticas del Bloque 1 de Métodos Numéricos (G855-G985)
+# Prácticas del Bloque I de Métodos Numéricos (G855-G985)
 
 ## Práctica 0: Introducción a R
 
