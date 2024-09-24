@@ -8,7 +8,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_R/HEAD?labpath=G766_Estadistica%2FEstadisticaDescriptiva.ipynb)
 
-## Analisis bidimensiona y regresion
+## Análisis bidimensional y regresión
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_R/HEAD?labpath=G766_Estadistica%2FRegresion.ipynb)
 
