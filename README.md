@@ -23,3 +23,7 @@
 ## Inferencia y Contraste de hipótesis
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_R/HEAD?labpath=InferenciaContrastes.ipynb)
+
+## Gráficos de control estadístico de la calidad
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_R/HEAD?labpath=ControlEstadisticoCalidad.ipynb)
