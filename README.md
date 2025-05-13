@@ -1,4 +1,4 @@
-<img src="https://commons.wikimedia.org/wiki/File:R_logo.svg" width = "140"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" width = "125"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://mybinder.org/static/logo.svg" width = "400">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width = "140"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" width = "125"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://mybinder.org/static/logo.svg" width = "400">
 
 
 # <img src="https://cdn-icons-png.flaticon.com/128/197/197593.png" width = "30">  Prácticas de Estadística con R
@@ -8,14 +8,14 @@ En la siguiente tabla, encontrarás una lista de guías de *prácticas de R* jun
 ## Notebooks disponibles:
 
   1. Introducción a R [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_R/HEAD?labpath=IntroR.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)]
   2. Estadística descriptiva [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_R/HEAD?labpath=EstadisticaDescriptiva.ipynb)
   3. Análisis bidimensional y regresión [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_R/HEAD?labpath=Regresion.ipynb)
   4. Distribuciones comunes [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_R/HEAD?labpath=DistribucionesComunes.ipynb)
+     
      (Guion corto) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_R/HEAD?labpath=DistribucionesComunes_short.ipynb)
-  5. Papel probabilístico [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_R/HEAD?labpath=PapelProbabilistico.ipynb)     
-  6. Inferencia y Contraste de hipótesis [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_R/HEAD?labpath=InferenciaContrastes.ipynb)
-  7. Gráficos de control estadístico de la calidad [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_R/HEAD?labpath=ControlEstadisticoCalidad.ipynb)
+  6. Papel probabilístico [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_R/HEAD?labpath=PapelProbabilistico.ipynb)     
+  7. Inferencia y Contraste de hipótesis [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_R/HEAD?labpath=InferenciaContrastes.ipynb)
+  8. Gráficos de control estadístico de la calidad [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/InMaths/Practicas_R/HEAD?labpath=ControlEstadisticoCalidad.ipynb)
 
 
 # <img src="https://cdn-icons-png.flaticon.com/128/197/197374.png" width = "30"> Statistics Practice with R
